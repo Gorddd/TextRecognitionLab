@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRecognitionLab", "TestRecognitionLab\TestRecognitionLab.csproj", "{15D98854-4D37-4BD4-B0B9-FD93B4320126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D98854-4D37-4BD4-B0B9-FD93B4320126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D98854-4D37-4BD4-B0B9-FD93B4320126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D98854-4D37-4BD4-B0B9-FD93B4320126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D98854-4D37-4BD4-B0B9-FD93B4320126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D2702DA-27EB-457F-B06C-A478B4279F65}
+	EndGlobalSection
+EndGlobal
